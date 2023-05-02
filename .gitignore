@@ -24,3 +24,4 @@ temp/test.json
 package-lock.json
 
 gitLogin.js
+*.sh
